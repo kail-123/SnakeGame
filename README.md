@@ -20,3 +20,9 @@ Open cmd and type **pip intall pygame** hit enter button and wait for finish dow
 
 # Cheat Code
 #### The code also contains the cheat code with which you can increase your score by 5 with pressing the *q* button on keybaord.
+
+# VS Code
+#### VS code software is used for code writing. If you want to code then you can use this simple but very effective tool.
+
+
+#Thank You

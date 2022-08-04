@@ -25,4 +25,4 @@ Open cmd and type **pip intall pygame** hit enter button and wait for finish dow
 #### VS code software is used for code writing. If you want to code then you can use this simple but very effective tool.
 
 
-#Thank You
+# Thank You
